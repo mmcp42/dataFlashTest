@@ -1,0 +1,1 @@
+sketch to establich and test functions for accessing data flash memory
